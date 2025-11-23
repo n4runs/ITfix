@@ -73,8 +73,8 @@ Hasil: proses pelaporan terdokumentasi, perbaikan lebih terkoordinasi, dan ada r
 ### 2. Clone / Extract
 ```bash
 git clone <repo-url>
-# atau unzip jika pake zip yang saya kirim
-cd campusfix_full     # atau nama folder project-mu
+
+cd ITFix     
 ```
 
 ### 3. Backend — Konfigurasi & Jalankan
